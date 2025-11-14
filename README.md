@@ -5,7 +5,7 @@ Atividade 1: Apresentação em grupo Canva
 <img width="1096" height="613" alt="Captura de tela 2025-11-14 192058" src="https://github.com/user-attachments/assets/d30d7f00-cb23-4c4d-a7da-1ad38334b250" />
 
 Atividade 2: Análises exploratória referente aos dados abertos sobre bares, restaurantes e cafeterias do Brasil 
-<img width="1096" height="613" alt="Captura de tela 2025-11-14 192058" src="https://github.com/user-attachments/assets/0745d0ed-ba25-4b38-9a28-22b4ff345826" />
+<img width="597" height="268" alt="Captura de tela 2025-11-14 192553" src="https://github.com/user-attachments/assets/c50e6089-76cf-40bb-b193-e8cce5e5a0a9" />
 
 Ativiadade 3: Análises do Comex Stat
 <img width="1753" height="499" alt="Captura de tela 2025-11-14 193050" src="https://github.com/user-attachments/assets/75b52ac3-c6f9-464f-b233-691698c833ca" />
