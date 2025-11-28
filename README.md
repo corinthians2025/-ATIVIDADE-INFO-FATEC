@@ -1,4 +1,4 @@
-<img width="1428" height="718" alt="Captura de tela 2025-11-27 224703" src="https://github.com/user-attachments/assets/a3cf7147-5d6e-4d7e-a11b-7270f7d781d7" /># -ATIVIDADE-INFO-FATEC
+ /># -ATIVIDADE-INFO-FATEC
 Trabalhos realizados em sala de aula durante o semestre.
 
 # Atividade 1: Apresentação em grupo Canva
