@@ -1,4 +1,4 @@
-# -ATIVIDADE-INFO-FATEC
+<img width="1428" height="718" alt="Captura de tela 2025-11-27 224703" src="https://github.com/user-attachments/assets/a3cf7147-5d6e-4d7e-a11b-7270f7d781d7" /># -ATIVIDADE-INFO-FATEC
 Trabalhos realizados em sala de aula durante o semestre.
 
 # Atividade 1: Apresentação em grupo Canva
@@ -23,7 +23,8 @@ Trabalhos realizados em sala de aula durante o semestre.
 # Atividade 7: Tabela de regressão linear (Experiencia vs Salário)
 <img width="1021" height="806" alt="Captura de tela 2025-11-14 201156" src="https://github.com/user-attachments/assets/833fe5eb-b465-4959-8a44-bdad438e226f" />
 
-
+# Atividade prova de info 
+<img width="1428" height="718" alt="Captura de tela 2025-11-27 224703" src="https://github.com/user-attachments/assets/9717217d-7c43-43a7-b2ac-9dae6b490798" />
 
 
 
